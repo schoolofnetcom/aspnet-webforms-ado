@@ -1,0 +1,1 @@
+﻿Projeto destinado aos desenvolvedores iniciantes em ASP.NET que queiram conhecer o Web Forms, com a utilização do ADO.Net para conectar e executar comandos de banco de dados.
